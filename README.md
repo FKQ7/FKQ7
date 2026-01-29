@@ -1,11 +1,12 @@
 <div align="center">
 
-# Fayez Al-Shwayya 🚀
+# Fayez Al-Shwayya 
 
-**Software Engineering Student | Full-Stack Builder | Automation & AI Curious**
+**Software Engineering Student | Full-Stack | Automation & AI**
 
-I build things that actually work.  
-Clean code, real users, no fake hype.
+🌐 Personal Website: https://fayezshwayya.pythonanywhere.com
+
+I build things.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FKQ7&color=grey)
 ![GitHub followers](https://img.shields.io/github/followers/FKQ7?style=social)
